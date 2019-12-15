@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameAssets.cs" />
      <Compile Include="Assets\Scripts\GameHandler.cs" />
+     <Compile Include="Assets\Scripts\Snake.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>H:/Softwares/My Unity Projects/My Snake Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
